@@ -178,7 +178,7 @@
                     </ul>
                 </nav>
                 <p class="copyright pull-right">
-                    &copy; <script>document.write(new Date().getFullYear())</script> <a href="#">Apotek Pratama</a>, Jl. Cibubur, Kec. Ciracas, Jakarta Timur.
+                    &copy; <script>document.write(new Date().getFullYear())</script> <a href="https://smk.prestasiprima.sch.id/">SMK Prestasi Prima</a>, Jl. Assyafiah, Kec. Cipayung, Jakarta Timur.
                 </p>
             </div>
         </footer>
